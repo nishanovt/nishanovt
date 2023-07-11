@@ -31,5 +31,5 @@
   <a aria-label="Chat on Telegram" href="https://wa.me/996776709190"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka1mak&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanovt&layout=compact" />
 </div>
