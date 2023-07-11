@@ -1,4 +1,6 @@
-<div align="center"><img width="100%" src="https://user-images.githubusercontent.com/74500494/210315548-fab6709d-f0fd-4bef-92e2-faca20e97a9c.jpg"></div>
+<div align="center">
+  <img width="100%" src="https://github.com/nishanovt/nishanovt/assets/139216927/cba174ab-4ca8-48f1-b766-51ebc9bb63c1">
+</div>
 <h1 align="center">Technology Stack:</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
